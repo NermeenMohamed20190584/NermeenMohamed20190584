@@ -23,7 +23,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=JAVA)&nbsp;
+![java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![sql](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -36,6 +36,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NermeenMohamed20190584&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+
